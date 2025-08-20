@@ -1,0 +1,1 @@
+print('Dear'<Name> '\n' 'You are selected in '<Dept>' On this date ::' <Date>)

@@ -1,0 +1,6 @@
+print(Marks[0])
+print(Marks[1])
+print(Marks[2])
+print(Marks[3])
+print(Marks[4])
+print(Marks[5])
