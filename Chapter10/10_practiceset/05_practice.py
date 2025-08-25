@@ -1,5 +1,4 @@
 #Class of train with info and functionalititess
-
 class train:
 
     def BookT(self):
@@ -11,7 +10,7 @@ class train:
 
     def fairInfo(self):
         City = input("Enter the city name: ")
-
+        #if condition
         if(City == "New Bombay"):
             print("The fair of train for New Bombay is Rs/=4590 ")
         elif (City == "Delhi"):
@@ -29,6 +28,7 @@ class train:
             print(f"You have booked {bookedSeat} seats.")
         else:
             print("No seats are booked yet.")
+
 
 train1 = train()
 train1.fairInfo()
