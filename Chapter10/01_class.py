@@ -1,5 +1,4 @@
 # Class in python (OOP)
-
 class Employee:
     name = "Fahad"
     lang = "Py"
