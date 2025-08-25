@@ -1,5 +1,4 @@
 #Constructor and static method in python
-
 class Student:
     #class attributes/properties
     name = "Sushant"
